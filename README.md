@@ -1,7 +1,9 @@
 # Applied Math and Statistics Notes
 
 **Author:** [Jonathan Ma](https://jonathanma03.github.io/) 
+
 **Credit:** Special thanks to the professors at **JHU Whiting School of Engineering** for their guidance, lectures, and dedication.  
+
 **Contact:** [Email](mailto:jonathanma217@outlook.com)  
 
 ---
